@@ -2,7 +2,7 @@
 This is an NSO package to execute license commands to a device group.
 
 # How to use?
-Just clone the package and execute "packages reload"
+Just clone the package and execute "packages reload".
 After the reload, a new command is added under device-group.
 
 ```
